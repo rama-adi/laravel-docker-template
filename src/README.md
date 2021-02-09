@@ -1,6 +1,6 @@
-## This is where your Laravel app goes
+## Disini tempat menaruh proyek laravel anda
 
-To get started, delete this file and then do one of the following:
+Untuk memulai, hapus file ini lalu lakukan salah satu hal berikut:
 
-- Clone your project or copy all of the files directly into this `src` directory.
-- Spin up the Docker network by following the instructions on the main [README.md](../README.md), and install a brand new Laravel project by running `docker-compose run --rm composer create-project laravel/laravel .` in your terminal.
+- Kloning proyek Anda atau salin semua file langsung ke direktori `src` ini.
+- Jalankan jaringan Docker dengan mengikuti petunjuk di [README.md] utama (../ README.md), dan instal proyek Laravel baru dengan menjalankan `docker-compose run --rm composer create-project laravel / laravel .` di terminal Anda.
